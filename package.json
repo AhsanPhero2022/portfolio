@@ -1,0 +1,14 @@
+{"homepage":"https://AhsanPhero2022/react-website.git",
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@iconscout/react-unicons": "^1.1.6",
+    "emailjs": "^4.0.1",
+    "framer-motion": "^7.1.1",
+    "motion": "^10.13.3",
+    "pagination": "^0.4.6",
+    "react-scroll": "^1.8.7",
+    "slide": "^1.1.6",
+    "slider": "^1.0.4",
+    "swiper": "^8.3.2"
+  }
+}
